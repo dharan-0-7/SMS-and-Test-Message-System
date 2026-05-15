@@ -1,0 +1,7 @@
+flask
+flask-socketio
+pymongo
+python-dotenv
+flask-bcrypt
+flask-login
+eventlet
